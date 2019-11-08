@@ -34,3 +34,10 @@
 * 14_hackerman
 * 15_change_letters
 * 16_palindrome
+* 17_combine_hashes
+* 18_find_errors
+* 19_balanced_number
+* 20_descending_numbers
+* 21_sort_numbers
+* 22_exes_ohs
+* 23_first_non_repeating
